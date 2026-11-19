@@ -1,5 +1,11 @@
 # Solmar Cover Studio — Make GTA 6 Cover Art
 
+[![make.fun · gta6-cover-art-01](https://make.fun/badge/gta6-cover-art-01.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![rank](https://make.fun/badge/gta6-cover-art-01/bayujahida2/make-fun-gta6-cover-art/rank.svg)](https://make.fun/bounty/gta6-cover-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![reward](https://make.fun/badge/gta6-cover-art-01/bayujahida2/make-fun-gta6-cover-art/reward.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+
+make.fun bounty [gta6-cover-art-01](https://make.fun/bounty/gta6-cover-art-01): turn a photo and a caption into GTA 6-style cover art. $250 over 50 places, free entry. New to make.fun? Join with my referral link: https://make.fun/r/0q7mm1bq
+
 Turn your photos and a caption into multi-panel GTA-style cover art, exported
 as a PNG to share. Runs **offline** in a desktop browser from its own static
 files: photos are read on your machine and never uploaded anywhere.
